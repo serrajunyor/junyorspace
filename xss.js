@@ -1,9 +1,9 @@
 // Username
-let username = 'thuk 👽';
+let username = 'Junyor 🚀';
 // User simpledescription etc (48 characters allowed)
-let description = 'value loyalty above all else.';
+let description = 'pls don't waste my time.';
 // User avatar
-let avatar = 'https://img.xatblog.net/image/bjhcMtuS1g.png';
+let avatar = 'https://xatimg.com/image/PeskBEDV0lhz.png';
 
 
 
